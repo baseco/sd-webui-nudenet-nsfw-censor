@@ -1,6 +1,6 @@
 # Stable Diffusion Web UI - NudeNet NSFW Censor
 
-This is a [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) extension that uses [NudeNet](https://github.com/notAI-tech/NudeNet) to detect NSFW regions in an image, allowing for partial censoring of the image, useful when sharing images NSFW images on social media.
+This is a fork of a [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) extension that uses [NudeNet](https://github.com/notAI-tech/NudeNet) to detect NSFW regions in an image, allowing for partial censoring of the image, useful when sharing images NSFW images on social media.
 
 ### Features
 - `Image generation` and `Live preview`
